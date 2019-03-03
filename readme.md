@@ -1,1 +1,1 @@
-https://github.com/GooberMakc.github.io/rsschool-2019Q1-cv/cv
+https://GooberMakc.github.io/rsschool-2019Q1-cv/cv
