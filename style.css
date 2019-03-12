@@ -41,6 +41,24 @@ footer {
     background-color: lightblue;
 }
 
+.photo {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.photo > div {
+    display: block;
+    width: 680px;
+}
+
+img {
+    width: 300px;
+    margin: 0 20px 0 20px;
+    border-radius: 50%;
+}
+
 a {
     text-decoration: none;
     color: inherit;
